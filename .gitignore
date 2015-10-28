@@ -1,0 +1,10 @@
+#directorios .gradle
+.gradle
+# todos los archvios con local.properties
+local.properties
+# todos los archvios con workspace.xml
+workspace.xml
+#directorios libraries
+libraries/
+#directorios .bilds
+build/
